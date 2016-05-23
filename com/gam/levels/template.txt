@@ -1,0 +1,8 @@
+*DOCTYPE=GAM APCS DUNGEONCRAWLER*
+<level name>//required
+<dimensions x,y>//required
+<default floor name>//required
+-
+<[<optional gridstack>] x times total>;
+<^repeat above y times>
+-

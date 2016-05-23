@@ -1,0 +1,26 @@
+DOCTYPE=GAM APCS DUNGEONCRAWLER
+testlevel
+20,20
+Grass_Floor
+-
+[meshes.Stone][][meshes.Stone][meshes.Stone][][][][][][][][][][][][][meshes.Stone][meshes.Stone][][meshes.Stone];
+[Player][][][][][][][][][][inventory.Banana][][][][][][][][meshes.Stone][];
+[][actors.mobs.Jackal][meshes.Stone][meshes.Stone][][][][][][][][][][][][][meshes.Stone][meshes.Stone][][meshes.Stone];
+[][][meshes.Stone][meshes.Stone][][][][][][inventory.HealingPotion][][][][][][][meshes.Stone][meshes.Stone][][meshes.Stone];
+[][][][][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][][][][];
+[][][][][meshes.Stone][noclip.Dirt_Floor,actors.mobs.Jackal][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][meshes.Stone][][][][];
+[][][][][][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][meshes.Stone][][][][];
+[][][][][meshes.Stone][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][meshes.Stone][][][][];
+[][][][][meshes.Stone][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][meshes.Stone][][][][];
+[][][][][meshes.Stone][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][meshes.Stone][][][][];
+[][][][][meshes.Stone][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][meshes.Stone][][][][];
+[][][][][meshes.Stone][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor,actors.mobs.Jackal][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][meshes.Stone][][][][];
+[][][][][meshes.Stone][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor,inventory.Banana][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][meshes.Stone][][][][];
+[][][][][meshes.Stone][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][meshes.Stone][][][][];
+[][][][][meshes.Stone][noclip.Dirt_Floor,actors.mobs.Couatl][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][noclip.Dirt_Floor][meshes.Stone][][][][];
+[][][][][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][meshes.Stone][][][][];
+[meshes.Stone][][meshes.Stone][meshes.Stone][][][][][][][][][][][][][meshes.Stone][meshes.Stone][][meshes.Stone];
+[meshes.Stone][][meshes.Stone][meshes.Stone][][actors.mobs.Couatl][][][][][][][][][][][meshes.Stone][meshes.Stone][][meshes.Stone];
+[][meshes.Stone][][][][][][][][][][][][][][][][][meshes.Stone][];
+[meshes.Stone][][meshes.Stone][meshes.Stone][][][][][][][][][][][][][meshes.Stone][meshes.Stone][][meshes.Stone];
+-
